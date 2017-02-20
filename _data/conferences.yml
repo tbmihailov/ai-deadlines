@@ -1,4 +1,14 @@
 ---
+- name: UAI
+  year: 2017
+  id: uai17
+  link: http://auai.org/uai2017/index.php
+  deadline: "2017-03-31 23:59:59"
+  timezone: Pacific/Samoa
+  date: August 11-15, 2017
+  place: Sydney, Australia
+  sub: ML
+  
 - name: Star(*)SEM
   year: 2017
   id: starsem17
@@ -120,16 +130,6 @@
   date: October 22-29, 2017
   place: Venice, Italy
   sub: CV
-
-- name: UAI
-  year: 2017
-  id: uai17
-  link: http://auai.org/uai2017/index.php
-  deadline: "2017-03-31 23:59:59"
-  timezone: Pacific/Samoa
-  date: August 11-15, 2017
-  place: Sydney, Australia
-  sub: ML
 
 - name: ECML-PKDD
   year: 2017
