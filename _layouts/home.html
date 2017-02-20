@@ -136,11 +136,16 @@
 
         // Set checkboxes
         var all_subs = ['ML', 'CV', 'NLP', 'RO', 'GR'];
+        var checked_subs_default = ['ML', 'NLP'];
         var subs = store.get('aideadlin.es');
         if (subs === undefined) {
           subs = all_subs;
           for (var i = 0; i < subs.length; i++) {
-            $('#' + subs[i] + '-checkbox').prop('checked', true);
+            $('#' + subs[i] + '-checkbox').prop('checked', false);
+          }
+          
+          for (var i = 0; i < checked_subs_default.length; i++) {
+            $('#' + checked_subs_default[i] + '-checkbox').prop('checked', true);
           }
         } else {
           for (var i = 0; i < subs.length; i++) {
