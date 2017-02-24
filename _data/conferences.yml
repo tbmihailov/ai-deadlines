@@ -76,6 +76,16 @@
   date: December 4-9, 2017
   place: Long Beach Convention Center, California
   sub: ML
+  
+ - name: RepEval
+  year: 2017
+  id: repeval17
+  link: https://repeval2017.github.io/
+  deadline: "2017-06-14 23:59:00"
+  timezone: GMT-11
+  date: September 7-11, 2017
+  place: Copenhagen, Denmark
+  sub: NLP
 
 - name: COLT
   year: 2017
