@@ -39,6 +39,16 @@
   place: Copenhagen, Denmark
   sub: NLP
   
+- name: IJCNLP
+  year: 2017
+  id: ijcnlp17
+  link: http://ijcnlp2017.org/site/page.aspx?pid=148&sid=1133&lang=en
+  deadline: "2017-07-07 23:59:00"
+  timezone: UTC-7
+  date: November 28 - 30, 2017
+  place: Taipei, Taiwan
+  sub: NLP
+  
 - name: Star(*)SEM
   year: 2017
   id: starsem17
