@@ -21,7 +21,7 @@
 - name: Interpretability workshop - nterpreting, Explaining and Visualizing Deep Learning ... now what ? 
   year: 2017
   id: interpret17
-  link: - name: http://www.interpretable-ml.org/nips2017workshop/
+  link: http://www.interpretable-ml.org/nips2017workshop/
   deadline: "2017-10-22 23:59:59"
   date: December 9, 2017
   place: Longbeach, CA, Co-located with NIPS
