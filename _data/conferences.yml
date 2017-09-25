@@ -10,7 +10,7 @@
   place: Lanzarote, Spain
   sub: ML
 
-- name: AKBC workshop - 6th Workshop on Automated Knowledge Base Construction (AKBC) 2017
+- name: AKBC workshop - 6th Workshop on Automated Knowledge Base Construction (AKBC)
   year: 2017
   id: akbc2017
   link: http://www.akbc.ws/2017/index.html
@@ -20,7 +20,7 @@
   place: Longbeach, CA, Co-located with NIPS
   sub: NLP
 
-- name: Interpretability workshop - nterpreting, Explaining and Visualizing Deep Learning ... now what ? 
+- name: Interpretability workshop - Interpreting, Explaining and Visualizing Deep Learning ... now what ? 
   year: 2017
   id: interpret17
   link: http://www.interpretable-ml.org/nips2017workshop/
