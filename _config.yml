@@ -2,7 +2,7 @@ title: AI Conference Deadlines # (Maintained by @abhshkdz)
 # email: abhshkdz@vt.edu
 description: Countdowns to top NLP conference and workshop deadlines. This is fork of the original https://aideadlin.es/.
 
-baseurl: ""
+baseurl: "/nlp-deadlines"
 twitter_username: abhshkdz
 github_username: abhshkdz
 
